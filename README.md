@@ -1,3 +1,5 @@
+### For quick overview, click on - <a href="https://youtu.be/l4mfS_mQlGM">Project Demonstration</a>
+
 # Algorithmic-Trading
 
 Algorithmic trading, often referred to as Algo-trading, involves the use of computer programs to place trade at a very high speed and frequency which is impossible to replicate by any human trader. The main goal is to execute the instructions based on timing, price, quantity, or any mathematical model. It has significantly grown since the 1980s and is now used by institutional investors and large trading firms for various purposes. Here, one combines financial market knowledge with programming skills to create and manage trading algorithms.
